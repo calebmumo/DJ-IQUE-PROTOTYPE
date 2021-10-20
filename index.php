@@ -1,6 +1,6 @@
 <?php
 
-include_once("ique 2.html");
+include_once("iqueweb.html");
 
 ?>
 
